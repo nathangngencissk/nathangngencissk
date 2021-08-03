@@ -30,7 +30,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nathangngencissk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathangencissk//)](https://www.linkedin.com/in/nathangencissk/)
+[![Linkedin Badge](https://img.shields.io/badge/-nathangngencissk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathangngencissk//)](https://www.linkedin.com/in/nathangngencissk/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nathangngencissk&show_icons=true)
